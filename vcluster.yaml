@@ -1,0 +1,5 @@
+apiVersion: vcluster.k8s.io/v1alpha1
+kind: VirtualCluster
+metadata:
+  name: demo
+  
